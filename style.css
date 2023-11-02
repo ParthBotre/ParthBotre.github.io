@@ -260,7 +260,7 @@ section {
   }
   
   .highlight {
-    color: black; /* Set the desired color for the span element */
+    color: Black; /* Set the desired color for the span element */
 }
 
 
@@ -402,10 +402,17 @@ section {
 .experience-sub-title{
     color:#89cff0;
     font-weight: 600;
-    font-size: 1.5rem;
+    font-size: 2rem;
     margin-bottom: 2rem;
 }
 
+span{
+    font-size: 2rem;
+}
+
+.title{
+    font-size: 2rem;
+}
 .experience-details-container{
     font-display: auto;
     justify-content: center;
@@ -449,7 +456,7 @@ article{
     font-size: 1rem;
     color: REd;
 }
-/* span .note{
+/* span{
     color: black;
     font-size: 3rem;
 } */
